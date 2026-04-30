@@ -17,5 +17,9 @@ public class ToString{
         str[i] = in.next();
     }
     System.out.println(Arrays.toString(str));
-    }
+    // modify 
+    str [1]= "KHUSHI";
+    System.out.println(Arrays.toString(str));
+    
+        }
     }
