@@ -6,6 +6,9 @@ public class VarArgs2{
 
     }
     static void multiple (int a , int b , String...v){
+        System.out.println(a);
+        System.out.println(b);
         System.out.println(Arrays.toString(v));
+
     }
 }
