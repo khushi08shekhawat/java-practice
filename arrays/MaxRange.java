@@ -1,7 +1,7 @@
 public class MaxRange{
     public static void main(String[] args){
         int[] arr = {23,44,56,176,123};
-        System.out.println(maxRange(arr,0,4));
+        System.out.println(maxRangeq(arr,0,4));
 
     }
     static int maxRange(int[]arr, int start , int end){
