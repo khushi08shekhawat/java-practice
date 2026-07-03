@@ -6,7 +6,7 @@ public class SearchEven{
     static int findNumber(int[] nums){
         int count = 0;
         for(int i = 0;i<nums.length;i++){
-            if(even(nums[i])){
+            if(even(nums [i])){
                 count++;
             }
         }
