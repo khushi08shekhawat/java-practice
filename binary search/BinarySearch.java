@@ -1,7 +1,7 @@
 public class BinarySearch{
     public static void main(String[]args){
         int[] arr = {-81,-19,3,6,9,25,37,48,59,60};
-        int target = 6;
+        int target = -19;
         int ans = binarysearch(arr,target);
         System.out.println(ans);
     }
