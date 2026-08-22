@@ -9,8 +9,7 @@
 			"path": ".."
 		},
 		{
-			"name": "dsa sheet",
-			"path": "."
+			"path": "../dsa sheet"
 		}
 	],
 	"settings": {}
