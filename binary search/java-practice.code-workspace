@@ -1,11 +1,17 @@
 {
 	"folders": [
 		{
-			"path": ".."
+			"name": "binary search",
+			"path": "."
 		},
 		{
-			"path": "."
+			"name": "java-practice",
+			"path": ".."
 		}
+		{
+			"name": "dsa sheet",
+			"path": "."
+		},
 	],
 	"settings": {}
 }
